@@ -55,7 +55,6 @@
 	transform: translateX(-50%);
 	width: 150px;
 	height: 150px;
-	background: #000;
 	transition: 0.5s;
 	z-index: 10;
 	overflow: hidden;
